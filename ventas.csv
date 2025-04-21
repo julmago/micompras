@@ -1,0 +1,2 @@
+id_pedido,fecha,cliente_nombre,cliente_email,cliente_telefono,productos,total,estado
+1,2024-05-20 14:30,Juan Pérez,juan@email.com,123456789,"Producto1:2:100|Producto2:1:50",250.00,completado
